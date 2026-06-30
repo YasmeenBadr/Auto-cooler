@@ -1,0 +1,3 @@
+C:/Yasmeen/3RD YEAR 1ST TERM/CV/project2-sbe27_embedded_spring26_team01/build/CMakeFiles/SecureKeypad.elf.dir
+C:/Yasmeen/3RD YEAR 1ST TERM/CV/project2-sbe27_embedded_spring26_team01/build/CMakeFiles/edit_cache.dir
+C:/Yasmeen/3RD YEAR 1ST TERM/CV/project2-sbe27_embedded_spring26_team01/build/CMakeFiles/rebuild_cache.dir
